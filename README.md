@@ -7,3 +7,5 @@ Series Name: Learn Dart with Waqar
 
 Visit my Channel here: [Code With Waqar](https://www.youtube.com/channel/UCvmWUBeFxrEk6ItT06nQjfw)
 Explore this series: [Learn Dart with Waqar](https://www.youtube.com/playlist?list=PL_kNjQEpU5DP86ptTw4RmpCr5satXcadR)
+
+<img src="channelicon.png">
