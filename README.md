@@ -1,4 +1,4 @@
-# Learn-Dart-With-Waqar
+# Learn Dart with Waqar
 
 This repository contains all the codes which were taught in youtube video tutorial series in zip files. 
 
